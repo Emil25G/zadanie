@@ -1,1 +1,2 @@
-print("Test jezyka Python")
+def test_dummy():
+    assert 1 == 1
